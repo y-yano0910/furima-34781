@@ -16,7 +16,7 @@
                 <mxCell id="35" value="&amp;nbsp;email :string" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="2">
                     <mxGeometry y="80" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="password :encrypted_password" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;align=center;fontColor=#393C56;" vertex="1" parent="2">
+                <mxCell id="4" value="encrypted_password :string" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;align=center;fontColor=#393C56;" vertex="1" parent="2">
                     <mxGeometry y="110" width="220" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="family_name :string" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;verticalAlign=middle;fontColor=#393C56;" vertex="1" parent="2">
