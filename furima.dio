@@ -85,7 +85,7 @@
                 <mxCell id="96" value="postal_cord :string" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#393C56;" vertex="1" parent="95">
                     <mxGeometry y="50" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="97" value="&amp;nbsp;prefecture :integer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="95">
+                <mxCell id="97" value="&amp;nbsp;prefecture_id :integer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="95">
                     <mxGeometry y="80" width="220" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="98" value="municipality :string" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;fontColor=#393C56;" vertex="1" parent="95">
